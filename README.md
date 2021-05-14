@@ -8,4 +8,5 @@ Since 2019 I've been working for a large semiconductor company building custom s
 
 <img 
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dylan-robins&width=494"
+  width=494
 />
